@@ -1,0 +1,17 @@
+﻿  Source.cpp
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(224): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(226): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(228): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(230): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(237): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(239): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(241): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(243): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(254): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(256): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(258): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(260): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 1\williams, trenton j\assignments\project\project1\project1\source.cpp(511): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> N:\Computer Science 1\Period 1\Williams, Trenton J\Assignments\Project\Project1\Debug\Project1.exe
+  Project1.vcxproj -> N:\Computer Science 1\Period 1\Williams, Trenton J\Assignments\Project\Project1\Debug\Project1.pdb (Partial PDB)
