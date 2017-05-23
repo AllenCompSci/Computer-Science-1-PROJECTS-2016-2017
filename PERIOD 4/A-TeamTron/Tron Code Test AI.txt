@@ -1,0 +1,48 @@
+
+TEST AI CODE
+
+ computerMove();
+int computerMove(){
+
+int randMove;
+randMove=(rand()%4+1);
+if( (randMove=0)&&(board[computerRow][computerCol]!='*')){
+computerRow++;computerCol;
+return computerRow,computerCol;
+crashTest();
+}
+else if ( (randMove=0)&&(board[computerRow][computerCol]=='*')){
+computerRow--;computerCol;
+return computerRow, computerCol;
+crashTest();
+}
+else if((randMove=1)&&(board[computerRow][computerCol]!='*')){
+computerRow--;computerCol;
+return computerRow, computerCol;
+crashTest();
+}
+else if ( (randMove=1)&&(board[computerRow][computerCol]=='*')){
+computerRow++;computerCol;
+return computerRow,computerCol;
+crashTest();
+}
+else if((randMove=2)&&(board[computerRow][computerCol]!='*')){
+computerRow;computerCol--;
+return computerRow;computerCol;
+crashTest();
+}
+else if ( (randMove=2)&&(board[computerRow][computerCol]=='*')){
+computerRow;computerCol++;
+return computerRow;computerCol;
+crashTest();
+}
+else if((randMove=3)&&(board[computerRow][computerCol]!='*')){
+computerRow;computerCol++;
+return computerRow,computerCol;
+crashTest();
+}
+else if ( (randMove=0)&&(board[computerRow][computerCol]=='*')){
+computerRow;computerCol--;
+return computerRow,computerCol;
+crashTest();
+}

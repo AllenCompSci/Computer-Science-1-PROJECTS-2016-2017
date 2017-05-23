@@ -1,0 +1,67 @@
+HUMAN MOVEMENT TEST CODE
+
+bool crashTest;
+char humanMove (char input);
+int main()
+{
+
+if (_kbhit())key=_getch();{
+}
+humanMove(key);
+char humanMove(char key){
+key=_getch();
+key=toupper(key);
+switch(key)	{
+case 'W':humanRow++;humanCol;//move up
+crashTest();
+
+break;
+case 's':humanRow--;humanCol;//move down
+crashTest();
+
+break;
+case 'A':humanRow;humanCol--;//move left
+crashTest();
+break;
+case 'D':humanRow;humanCol++;//move right
+crashTest();
+break;
+default: cout<<"Wrong Key,Please Try again";
+break;
+return (key);
+}
+
+// TEST 2
+
+/* Arrow Key Handler for C/C++ Console Applications, Created by some_random_dude */
+/* Include these pre-processor directives at the start of your main C++ file (main.cpp) */
+#include <conio.h>
+#define ARROW_UP 72
+#define ARROW_DOWN 80
+#define ARROW_LEFT 75
+#define ARROW_RIGHT 77
+
+/* This is my function. How does it work? Call it in an if statement like this: */
+/* if (HandelArroeKeyBy_some_random_dude () == ARROW_UP) {Do stuff here for up arrow key} */
+/* Use what ever key you want though */
+
+int HandleArrowKeysBy_some_random_dude ()
+{
+    int iInput;
+    char cInput;
+    cInput = getch ();
+    putchar (cInput);
+    iInput = cInput;
+    switch (iInput)
+    {
+        case ARROW_UP:return ARROW_UP;break;
+        case ARROW_DOWN:return ARROW_DOWN;break;
+        case ARROW_LEFT:return ARROW_LEFT;break;
+        case ARROW_RIGHT:return ARROW_RIGHT;break;
+        default:return 0;break;
+    }
+    return 0;
+}
+
+//TEST 3
+

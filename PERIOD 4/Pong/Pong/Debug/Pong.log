@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\firefly-laptop\desktop\pong\pong\source.cpp(175): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\firefly-laptop\desktop\pong\pong\source.cpp(919): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\firefly-laptop\desktop\pong\pong\source.cpp(922): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\firefly-laptop\desktop\pong\pong\source.cpp(929): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Pong.vcxproj -> C:\Users\FireFly-Laptop\Desktop\Pong\Debug\Pong.exe
+  Pong.vcxproj -> C:\Users\FireFly-Laptop\Desktop\Pong\Debug\Pong.pdb (Partial PDB)

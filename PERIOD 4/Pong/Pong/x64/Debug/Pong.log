@@ -1,0 +1,43 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(686): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(689): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(718): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(725): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1053): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1056): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1063): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1188): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1191): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1194): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1250): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1252): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1254): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1256): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1262): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1264): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1270): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1272): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1275): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1277): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1295): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1310): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1312): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1320): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1322): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1325): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1326): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1400): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1403): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1405): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1407): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1413): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1415): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1421): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1423): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1426): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 4\gressick, johnathan d\pong\pong\source.cpp(1428): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Pong.vcxproj -> N:\Computer Science 1\Period 4\Gressick, Johnathan D\Pong\x64\Debug\Pong.exe
+  Pong.vcxproj -> N:\Computer Science 1\Period 4\Gressick, Johnathan D\Pong\x64\Debug\Pong.pdb (Partial PDB)

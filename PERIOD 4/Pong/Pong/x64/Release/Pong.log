@@ -1,0 +1,46 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(686): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(689): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(718): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(725): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source.cpp(971): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(974): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(981): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1099): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1162): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1164): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1166): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1174): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1176): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1182): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1184): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1187): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1189): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1207): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1222): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1224): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1232): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1237): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1238): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1312): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1315): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1317): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1319): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1325): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1327): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1333): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1335): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1338): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1340): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 285 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong.vcxproj -> C:\Users\FireFly-Laptop\Desktop\Pong\x64\Release\Pong.exe
+  Pong.vcxproj -> C:\Users\FireFly-Laptop\Desktop\Pong\x64\Release\Pong.pdb (Full PDB)
