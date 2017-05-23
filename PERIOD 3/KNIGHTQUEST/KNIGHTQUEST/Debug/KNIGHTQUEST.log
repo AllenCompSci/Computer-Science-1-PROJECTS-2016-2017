@@ -1,0 +1,98 @@
+﻿  Source.cpp
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(2729): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(2815): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(2897): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(2979): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3021): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(2653): warning C4101: 'AttackName': unreferenced local variable
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3380): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3392): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3398): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3400): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3402): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3425): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3462): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3474): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3486): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3488): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3498): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3500): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3523): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3547): warning C4101: 'WIDTH': unreferenced local variable
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3546): warning C4101: 'HIEGHT': unreferenced local variable
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3949): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3951): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3953): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3955): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3957): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3987): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4030): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4040): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4074): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4180): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4204): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4206): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4208): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4210): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4212): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4229): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4237): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4257): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4279): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4281): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4283): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4285): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4287): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4300): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4308): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4328): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4352): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4354): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4356): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4358): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4360): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4389): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4391): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4401): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4417): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4447): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4459): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4472): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4474): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4484): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4500): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4530): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4542): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4555): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4557): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4567): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4583): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4613): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4625): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4638): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4640): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4650): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4666): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4696): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4706): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4746): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4747): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4748): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4749): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4750): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4751): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4767): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4769): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4771): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4773): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4775): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(4777): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3974): warning C4101: 'MaxY': unreferenced local variable
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 3\knightquest\knightquest\source.cpp(3988): warning C4101: 'HIEGHT': unreferenced local variable
+  KNIGHTQUEST.vcxproj -> C:\Users\taylor hudson\GitHub\Computer-Science-1-PROJECTS-2016-2017\PERIOD 3\KNIGHTQUEST\Debug\KNIGHTQUEST.exe
+  KNIGHTQUEST.vcxproj -> C:\Users\taylor hudson\GitHub\Computer-Science-1-PROJECTS-2016-2017\PERIOD 3\KNIGHTQUEST\Debug\KNIGHTQUEST.pdb (Partial PDB)

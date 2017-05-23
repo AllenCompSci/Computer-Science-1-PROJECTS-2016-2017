@@ -1,0 +1,9 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\merrick, charles c. iv\miata\projectmiata\projectmiata\test.h(143): warning C4101: 't': unreferenced local variable
+  Generating code
+  1 of 565 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    37 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectMIATA.vcxproj -> N:\Computer Science 1\Period 3\Merrick, Charles C. IV\MIATA\ProjectMIATA\Release\ProjectMIATA.exe
+  ProjectMIATA.vcxproj -> N:\Computer Science 1\Period 3\Merrick, Charles C. IV\MIATA\ProjectMIATA\Release\ProjectMIATA.pdb (Full PDB)

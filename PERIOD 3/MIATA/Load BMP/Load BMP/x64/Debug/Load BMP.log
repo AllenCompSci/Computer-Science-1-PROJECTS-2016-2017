@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(686): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(689): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(718): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(725): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Load BMP.vcxproj -> C:\Users\227002\Desktop\Load BMP\x64\Debug\Load BMP.exe
+  Load BMP.vcxproj -> C:\Users\227002\Desktop\Load BMP\x64\Debug\Load BMP.pdb (Partial PDB)

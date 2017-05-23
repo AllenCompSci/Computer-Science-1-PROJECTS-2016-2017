@@ -1,0 +1,3 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\freiberger, david m\duck hunt group project\duck hunt\duck hunt\source.cpp(162): error C2065: 'setpencolor': undeclared identifier
+n:\computer science 1\period 3\freiberger, david m\duck hunt group project\duck hunt\duck hunt\source.cpp(162): error C2146: syntax error: missing ';' before identifier 'boundBox'

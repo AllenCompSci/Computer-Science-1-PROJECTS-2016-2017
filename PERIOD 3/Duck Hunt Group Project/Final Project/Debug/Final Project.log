@@ -1,0 +1,5 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\gray, andrew s\final project\final project\source.cpp(267): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+n:\computer science 1\period 3\gray, andrew s\final project\final project\source.cpp(331): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Final Project.vcxproj -> N:\Computer Science 1\Period 3\Gray, Andrew S\Final Project\Debug\Final Project.exe
+  Final Project.vcxproj -> N:\Computer Science 1\Period 3\Gray, Andrew S\Final Project\Debug\Final Project.pdb (Partial PDB)

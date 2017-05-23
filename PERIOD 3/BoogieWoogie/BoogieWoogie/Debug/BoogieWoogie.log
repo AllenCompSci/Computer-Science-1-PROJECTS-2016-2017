@@ -1,0 +1,6 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\sundar singh, rhesa v\graphicsgroup_project\boogiewoogie\boogiewoogie\virtualkeys.h(1): warning C4068: unknown pragma
+n:\computer science 1\period 3\sundar singh, rhesa v\graphicsgroup_project\boogiewoogie\boogiewoogie\source.cpp(303): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 3\sundar singh, rhesa v\graphicsgroup_project\boogiewoogie\boogiewoogie\source.cpp(669): warning C4717: 'game': recursive on all control paths, function will cause runtime stack overflow
+  BoogieWoogie.vcxproj -> N:\Computer Science 1\Period 3\Sundar Singh, Rhesa V\GraphicsGroup_Project\BoogieWoogie\Debug\BoogieWoogie.exe
+  BoogieWoogie.vcxproj -> N:\Computer Science 1\Period 3\Sundar Singh, Rhesa V\GraphicsGroup_Project\BoogieWoogie\Debug\BoogieWoogie.pdb (Partial PDB)
