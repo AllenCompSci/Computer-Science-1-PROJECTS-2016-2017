@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 2\jumpstone pres\jumpstone\jumpstone\source.cpp(1284): warning C4018: '<': signed/unsigned mismatch
+c:\users\taylor hudson\github\computer-science-1-projects-2016-2017\period 2\jumpstone pres\jumpstone\jumpstone\source.cpp(1336): warning C4018: '<': signed/unsigned mismatch
+  Jumpstone.vcxproj -> C:\Users\taylor hudson\GitHub\Computer-Science-1-PROJECTS-2016-2017\PERIOD 2\Jumpstone Pres\Jumpstone\Debug\Jumpstone.exe
+  Jumpstone.vcxproj -> C:\Users\taylor hudson\GitHub\Computer-Science-1-PROJECTS-2016-2017\PERIOD 2\Jumpstone Pres\Jumpstone\Debug\Jumpstone.pdb (Partial PDB)

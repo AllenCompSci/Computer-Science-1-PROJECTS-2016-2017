@@ -1,0 +1,4 @@
+﻿  Source.cpp
+n:\computer science 1\period 2\kim, sunwoo\mr. hudson's dots & boxes example\project1\project1\source.cpp(207): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> N:\Computer Science 1\Period 2\Kim, Sunwoo\Mr. Hudson's Dots & Boxes Example\Project1\Debug\Project1.exe
+  Project1.vcxproj -> N:\Computer Science 1\Period 2\Kim, Sunwoo\Mr. Hudson's Dots & Boxes Example\Project1\Debug\Project1.pdb (Partial PDB)

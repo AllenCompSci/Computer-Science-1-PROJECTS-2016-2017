@@ -1,0 +1,6 @@
+﻿  Source.cpp
+n:\computer science 1\period 2\malapati, kaushik\sudoku again\sudoku again\source.cpp(459): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+n:\computer science 1\period 2\malapati, kaushik\sudoku again\sudoku again\source.cpp(764): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 2\malapati, kaushik\sudoku again\sudoku again\source.cpp(781): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sudoku again.vcxproj -> N:\Computer Science 1\Period 2\Malapati, Kaushik\Sudoku again\Debug\Sudoku again.exe
+  Sudoku again.vcxproj -> N:\Computer Science 1\Period 2\Malapati, Kaushik\Sudoku again\Debug\Sudoku again.pdb (Partial PDB)
