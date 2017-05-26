@@ -1,0 +1,5 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\gostanian, alexander r\comp sci final\final project\final project\source.cpp(493): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+n:\computer science 1\period 3\gostanian, alexander r\comp sci final\final project\final project\source.cpp(524): error C2601: 'StringBuilder': local function definitions are illegal
+  n:\computer science 1\period 3\gostanian, alexander r\comp sci final\final project\final project\source.cpp(523): note: this line contains a '{' which has not yet been matched
+n:\computer science 1\period 3\gostanian, alexander r\comp sci final\final project\final project\source.cpp(532): fatal error C1075: the left brace '{' was unmatched at the end of the file

@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\graphics.h(280): warning C4273: 'getch': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see previous definition of 'getch'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\graphics.h(281): warning C4273: 'kbhit': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see previous definition of 'kbhit'
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(204): warning C4101: 'y': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(204): warning C4101: 'x': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(204): warning C4101: 'j': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(250): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(326): warning C4101: 'p': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(421): warning C4101: 'k': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(421): warning C4101: 'y': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(421): warning C4101: 'x': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(421): warning C4101: 'j': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(421): warning C4101: 'i': unreferenced local variable
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(384): warning C4717: 'Snake::Snake': recursive on all control paths, function will cause runtime stack overflow
+c:\users\227582\desktop\assignments\game project\project1\project1\source.cpp(429): warning C4715: 'Snake::test': not all control paths return a value
+LINK : fatal error LNK1561: entry point must be defined

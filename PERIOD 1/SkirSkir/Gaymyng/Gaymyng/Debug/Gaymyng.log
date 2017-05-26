@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\graphics.h(280): warning C4273: 'getch': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see previous definition of 'getch'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\graphics.h(281): warning C4273: 'kbhit': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see previous definition of 'kbhit'
+  Gaymyng.vcxproj -> N:\Computer Science 1\Period 1\Chan, Kyle Y\Gaymyng\Debug\Gaymyng.exe
+  Gaymyng.vcxproj -> N:\Computer Science 1\Period 1\Chan, Kyle Y\Gaymyng\Debug\Gaymyng.pdb (Partial PDB)

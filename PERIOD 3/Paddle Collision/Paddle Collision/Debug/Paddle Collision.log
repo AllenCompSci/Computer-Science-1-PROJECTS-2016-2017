@@ -1,0 +1,8 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\singh, jonathan j\paddle collision\paddle collision\source.cpp(104): warning C4101: 'P1': unreferenced local variable
+n:\computer science 1\period 3\singh, jonathan j\paddle collision\paddle collision\source.cpp(103): warning C4101: 'end': unreferenced local variable
+n:\computer science 1\period 3\singh, jonathan j\paddle collision\paddle collision\source.cpp(103): warning C4101: 'start': unreferenced local variable
+n:\computer science 1\period 3\singh, jonathan j\paddle collision\paddle collision\source.cpp(104): warning C4101: 'P2': unreferenced local variable
+n:\computer science 1\period 3\singh, jonathan j\paddle collision\paddle collision\source.cpp(100): warning C4101: 'GMOverCount': unreferenced local variable
+  Paddle Collision.vcxproj -> N:\Computer Science 1\Period 3\Singh, Jonathan J\Paddle Collision\Debug\Paddle Collision.exe
+  Paddle Collision.vcxproj -> N:\Computer Science 1\Period 3\Singh, Jonathan J\Paddle Collision\Debug\Paddle Collision.pdb (Partial PDB)

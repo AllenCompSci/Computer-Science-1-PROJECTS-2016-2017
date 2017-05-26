@@ -1,0 +1,16 @@
+﻿  Source.cpp
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(1): error C2059: syntax error: 'constant'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(1): error C2059: syntax error: '='
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(5): error C2143: syntax error: missing ';' before '{'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(5): error C2447: '{': missing function header (old-style formal list?)
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(16): error C2059: syntax error: ','
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(17): error C2059: syntax error: '--'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(20): error C2059: syntax error: 'for'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(22): error C2059: syntax error: '='
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(24): error C2059: syntax error: '='
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(28): error C2059: syntax error: '--'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(31): error C2143: syntax error: missing ';' before 'return'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(32): error C2059: syntax error: '--'
+n:\computer science 1\period 3\nguyen, bryant v\rock paper scissors game\rock paper scissors 3\rock paper scissors 3\source.cpp(33): fatal error C1021: invalid preprocessor command 'IfWinActive'

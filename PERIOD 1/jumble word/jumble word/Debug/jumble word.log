@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\taylor hudson\desktop\jumble word\jumble word\source.cpp(831): warning C4101: 'gm': unreferenced local variable
+  jumble word.vcxproj -> C:\Users\taylor hudson\Desktop\jumble word\Debug\jumble word.exe
+  jumble word.vcxproj -> C:\Users\taylor hudson\Desktop\jumble word\Debug\jumble word.pdb (Partial PDB)

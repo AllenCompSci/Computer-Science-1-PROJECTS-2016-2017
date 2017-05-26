@@ -1,0 +1,848 @@
+http://cheats.emulation64.com/jnes
+
+Jnes Version 1.2 - 25th December 2016 | Version 1.0 cht file
+Added & Improved Cheat Code Supported for:
+
+(J) = Japen
+(JU) = Japan and USA
+(JUE) = Japan, USA and Europe
+(UE) = USA And Europe
+(U) = USA
+(E) = Europe
+(F) = France
+(G) = German
+(I) = Italy
+(S) = Spain
+(UNL) = Unlicensed
+
+//
+//--------------- PAL60 (J) Region Cheat Codes
+//
+
+1943 (J)
+Abarenbou Tengu (Zombie Nation) (J)
+Abadox (J)
+Airwolf (J)
+Akumajou Densetsu (J)
+Akumajou Dracula (J)
+Akumajou Special - Boku Dracula Kun (J)
+Alien Syndrome (J)
+Argos no Senshi (J)
+Asmik Kun Land (J)
+ASO - Armored Scrum Object (J)
+Attack Animal Gakuen (J)
+Babel no Tou (J)
+Baltron (J)
+Bananan Ouji no Dai Bouken (J)
+Batman (J)
+Batsu & Terii (J)
+Battle Formula (J)
+Battletoads (J)
+Bomberman (J)
+Bomberman 2 (J)
+Boulder Dash (J)
+Bucky O'Hare (J)
+Burai Fighter (J)
+Burger Time (J)
+Chip to Dale no Dai Sakusen (J)
+Chip to Dale no Dai Sakusen 2 (J)
+Chou Jikuu Yousai - Macross (J)
+Chou Jinrou Senki - Warwolf (J)
+Chou Wakusei Senki - Metafight (J)
+Choujin Sentai - Jetman (J)
+Chuka Taisen (J)
+Cosmic Epsilon (J)
+Cross Fire (J)
+Daiku no Gen San (J)
+Datsugoku (J)
+Dengeki - Big Bang! (J)
+Die Hard (J)
+Doki! Doki! Yuuenchi (J)
+Code0=071A-04,Infinite\Health
+Donald Land (J)
+Donkey Kong Jr. + Jr. Lesson (J)
+Door Door (J)
+Doraemon (J)
+Double Dragon (J)
+Double Dragon 2 - The Revenge (J)
+Double Dragon 3 - The Rosetta Stone (J)
+Dough Boy (J)
+Dragon Ball - Shen Long no Nazo (J)
+Dragon Buster 2 - Yami no Fuuin (J)
+Dragon Fighter (J)
+Dragon Unit (J)
+Dragon's Lair (J)
+Duck Tales 2 (J)
+Dynamite Batman (J)
+Eggerland - Meikyuu no Fukkatsu (J)
+Elevator Action (J)
+Exerion (J)
+Family Boxing (J)
+Family Pinball (J)
+Faxanadu (J)
+FC Genjin - Freakthoropus Computerus (J)
+Field Combat (J)
+Fighting Road (J)
+Final Mission (J)
+Flappy (J)
+Formation Z (J)
+Fushigina Bloby - Blobania no Kiki (J)
+Galaga (J)
+Galaxian (J)
+Galg (J)
+Ganbare Goemon 2 (J)
+Garfield - A Week of Garfield (J)
+Geimos (J)
+Gekikame Ninja Den (J)
+Gimmick! (J)
+God Slayer - Haruka Tenkuu no Sonata (J)
+Goonies 2 - Fratelli Saigo no Chousen (J)
+Gradius (ArchiMENdes Hen) (J)
+Gradius (J)
+Gradius 2 (J)
+Great Battle Cyber (J)
+Great Tank (J)
+Gremlin 2 - Shinshu Tanjou (J)
+Gryzor (J)
+Guardic Gaiden (J) [a1]
+Gun-Dec (J)
+Gyrodine (J)
+Hana no Star Kaidou (J)
+Happy Birthday Bugs (J)
+Heavy Barrel (J)
+Hebereke (J)
+Hector 87 (J)
+Hello Kitty no Ohanabatake (J)
+Hello Kitty World (J)
+Hi no Tori - Houou Hen - Gaou no Bouken (J)
+Hiryuu no Ken - Ougi no Sho (J)
+Hook (J)
+Hoshi no Kirby - Yume no Izumi no Monogatari (J)
+Hudson Hawk (J)
+Ikari (J)
+Ikari 2 - Dogosoken (J)
+Ikari 3 (J)
+Ikki (J)
+Image Fight (J)
+Jackie Chan (J)
+Jigoku Gokuraku Maru (J)
+Juju Densetsu (J)
+Juuryoku Soukou Metal Storm (J)
+Kage (J)
+Kakefu Kun no Jump Tengoku - Speed Jigoku (J)
+Kame no Ongaeshi - Urashima Densetsu (J)
+Karnov (J)
+Layla (J)
+Little Mermaid - Ningyo Hime (J)
+Lode Runner (J)
+Lord of King, The (J)
+Mad City (J)
+Magical Doropie (J)
+Makaimura (J)
+Max Warrior - Wakusei Kaigenrei (J)
+Metal Gear (J)
+Mickey Mouse (J)
+Mickey Mouse 3 - Yume Fuusen (J)
+Mighty Final Fight (J)
+Milon's Secret Castle (J)
+Mitsume ga Tooru (J)
+Moon Crystal (J)
+Mottomo Abunai Deka (J)
+Nemo - Pajama Hero (J)
+New Ghostbusters 2 (J)
+New York Nyankies (J)
+Ningen Heiki - Dead Fox (J)
+Ninja Cop Saizou (J)
+Ninja Ryukenden (J)
+Ninja Ryukenden 2 - Ankoku no Jashin Ken (J)
+Ninja Ryukenden 3 - Yomi no Hakobune (J)
+Olympus no Tatakai (J)
+Paperboy (J)
+Predator (J)
+Punch-Out!! (J)
+Raf World (J)
+Rambo (J)
+Robocco Wars (J)
+Robocop (J)
+Rockman (J)
+Rockman 2 - Dr Wily no Nazo (J)
+Rockman 3 - Dr Wily no Saigo! (J)
+Rockman 4 - Aratanaru Yabou!! (J)
+Rockman 5 - Blues no Wana! (J)
+Rockman 6 - Shijou Saidai no Tatakai!! (J)
+Pac-Man (J)
+
+//
+//--------------- NTSC (JU) Region Cheat Codes
+//
+
+1942 (JU)
+Balloon Fight (JU)
+Clu Clu Land (JU)
+Donkey Kong (JU)
+Excitebike (JU)
+Hogan's Alley (JU)
+Mach Rider (JU)
+Mach Rider (JU) [a1]
+Mario Bros (JU)
+Pinball (JU)
+Popeye (JU)
+Popeye (JU) (PRG 1)
+Super Mario Bros (JU) (PRG 0)
+Super Mario Bros (PRG 1) (JU)
+Urban Champion (JU)
+
+//
+//--------------- NTSC (JUE) Region Cheat Codes
+//
+
+Donkey Kong 3 (JUE)
+Duck Hunt (JUE)
+Gyromite (JUE)
+
+//
+//--------------- NTSC (UE) Region Cheat Codes
+//
+
+Fantastic Adventures of Dizzy, The (Aladdin) (UE)
+Gumshoe (UE)
+Kid Icarus (UE)
+
+//
+//--------------- NTSC (U) Region Cheat Codes
+//
+
+10-Yard Fight (U) [!]
+720 (U) [!]
+1943 - The Battle of Midway (U) [!]
+3-D Battles of World Runner, The (U) [!]
+8 Eyes (U) [!]
+Abadox (U)
+Advanced Dungeons & Dragons - Heroes of the Lance (U) [!]
+Advanced Dungeons & Dragons - Hillsfar (U) [!]
+AD&D Dragon Strike (U)
+AD&D Dragon Strike (U) [a1]
+Addams Family - Pugsley's Scavenger Hunt, The (U)
+Addams Family, The (U)
+Adventures of Bayou Billy, The (U)
+Adventures of Captain Comic, The (U)
+Adventures of Dino Riki, The (U) [!]
+Adventures of Dr. Franken, The (U) (Prototype)
+Adventures of Lolo (U) [!]
+Adventures of Rad Gravity, The (U)
+Adventures in the Magic Kingdom (U) [!]
+Adventures in the Magic Kingdom (U) [a1]
+Adventures of Lolo (U) [!]
+Adventures of Lolo 2 (U) [!]
+Adventures of Lolo 3 (U)
+Adventures of Rocky and Bullwinkle and Friends, The (U)
+Adventures of Tom Sawyer (U)
+Air Fortress (U)
+Airwolf (U)
+Alfred Chicken (U) [!]
+Alien 3 (U)
+Alien Syndrome (U)
+Alpha Mission (U) [!]
+Amagon (U)
+Amagon (U) [a1]
+Amagon (U) [a2]
+American Gladiators (U)
+Anticipation (U)
+Arch Rivals (U)
+Archon (U)
+Code0=AASSIEUT,Unrestricted Ground Movement 
+Arkanoid (U)
+Arkista's Ring (U)
+Astyanax (U)
+Astyanax (U) (Prototype)
+Athena (U)
+Athena (U) [a1]
+Attack of the Killer Tomatoes (U)
+Baby Boomer (Color Dreams) [!]
+Back to the Future (U)
+Back to the Future 2 & 3 (U)
+Bad Dudes (U)
+Bad Street Brawler (U)
+Batman (U)
+Batman (U) (Prototype)
+Batman - Return of the Joker (U)
+Batman Returns (U)
+Battle Tank (U)
+Battletoads (U)
+Battletoads Double Dragon (U)
+Battle of Olympus, The (U)
+Beetlejuice (U)
+Best of the Best Championship Karate (U)
+Big Nose Freaks Out (U)
+Big Nose Freaks Out (Aladdin) (U)
+Big Nose the Caveman (U)
+Bill & Ted's Excellent Video Game Adventure (U)
+Bill Elliott's NASCAR Challenge (U)
+Bionic Commando (U)
+Blaster Master (U)
+Bomberman (U)
+Bomberman 2 (U)
+Bonk's Adventure (U)
+Boulder Dash (U)
+Boy and His Blob, A - Trouble on Blobolonia (U) [!]
+Bram Stoker's Dracula (U)
+Breakthru (U)
+Bubble Bobble (U)
+Bubble Bobble Part 2 (U)
+Bucky O'Hare (U)
+Bugs Bunny Crazy Castle, The (U)
+Bump'n'Jump (U)
+Cabal (U)
+Captain America and the Avengers (U)
+Captain SkyHawk (U)
+Castelian (U)
+Castle of Dragon (U)
+Castlequest (U)
+Castlevania (U) (PRG 0)
+Castlevania (U) (PRG 1)
+Castlevania 2 - Simon's Quest (U)
+Castlevania 3 - Dracula's Curse (U)
+Chip 'n Dale Rescue Rangers (U)
+Chip 'n Dale Rescue Rangers 2 (U)
+Chubby Cherub (U)
+City Connection (U)
+Clash At Demonhead (U)
+Cliffhanger (U)
+Cobra Command (U)
+Code Name Viper (U)
+Commando (U)
+Conquest of the Crystal Palace (U)
+Contra (U)
+Contra Force (U)
+Cool World (U)
+Crystalis (U)
+Cybernoid - The Fighting Machine (U)
+Darkwing Duck (U)
+Defender of the Crown (U)
+Dick Tracy (U)
+Die Hard (U)
+Die Hard (U) [!]
+Digger - The Legend of the Lost City (U)
+Dirty Harry (U)
+Double Dragon (U)
+Double Dragon 2 - The Revenge (U)
+Double Dragon 3 - The Sacred Stones (U)
+Dr Chaos (U)
+Dr Jekyll and Mr Hyde (U)
+Dragon Power (U)
+Dragon's Lair (U)
+Duck Tales (U)
+Duck Tales (U) (Prototype)
+Duck Tales 2 (U)
+Dynowarz - Destruction of Spondylus (U)
+Elevator Action (U)
+Fantastic Adventures of Dizzy, The (1993 Version) (U)
+Fantasy Zone (Unl) (U)
+Faria (U)
+Faxanadu (U)
+Felix the Cat (U) [!]
+Fester's Quest (U)
+Final Fantasy (U)
+Fist of the North Star (U)
+Flintstones - The Rescue of Dino & Hoppy, The (U)
+Flintstones 2 - The Surprise at Dinosaur Peak!, The (U)
+Flying Dragon - The Secret Scroll (U)
+Galaxy 5000 (U)
+Gauntlet (U)
+Gauntlet 2 (U)
+Ghostbusters (U)
+Ghostbusters 2 (U)
+Ghosts'n Goblins (U)
+Godzilla - Monster of Monsters! (U)
+Goonies 2, The (U)
+Gradius (U)
+Gremlins 2 - The New Batch (U)
+Guerrilla War (U)
+Gun.Smoke (U) [!]
+Gyruss (U)
+Heavy Shreddin' (U)
+Home Alone 2 - Lost in New York (U)
+Hook (U)
+Hudson's Adventure Island (U)
+Hudson's Adventure Island 2 (U)
+Hudson's Adventure Island 3 (U)
+Hudson Hawk (U)
+Hunt for Red October, The (U)
+Hydlide (U)
+Ice Climber (U)
+Ikari Warriors (U) (PRG 0)
+Ikari Warriors (U) (PRG 1)
+Ikari Warriors 2 - Victory Road (U)
+Ikari 3 - The Rescue (U)
+Image Fight (U)
+Incredible Crash Dummies, The (U)
+Indiana Jones and the Last Crusade (Taito) (U)
+Indiana Jones and the Last Crusade (U) (UBI Soft) [!]
+Indiana Jones and the Temple of Doom (U)
+Ironsword - Wizards & Warriors 2 (U)
+Iron Tank (U)
+Isolated Warrior (U)
+Jackie Chan's Action Kung Fu (U)
+Jackal (U)
+James Bond Jr (U)
+Jaws (U) [a1]
+Jetsons - Cogswell's Caper!, The (U)
+Joe & Mac (U)
+Journey to Silius (U)
+Joust (U)
+Jungle Book, The (U)
+Jurassic Park (U)
+Kabuki - Quantum Fighter (U)
+Karate Kid, The (U)
+Karnov (U)
+Kickle Cubicle (U)
+Kick Master (U)
+Kid Kool (U)
+Kid Niki - Radical Ninja (U)
+King's Knight (U)
+Kirby's Adventure (U) (PRG 0)
+Kirby's Adventure (U) (PRG 1)
+Kiwi Kraze (U)
+Klash Ball (U)
+Knight Rider (U)
+Krion Conquest, The (U)
+Krusty's Fun House (U)
+Kung-Fu Heroes (U)
+Kung Fu (U)
+Last Action Hero (U)
+Last Starfighter, The (U)
+Legacy of the Wizard (U)
+Legend of Kage, The (U)
+Legendary Wings (U)
+Lemmings (U)
+Lethal Weapon (U)
+Lifeforce (U)
+Little Mermaid, The (U)
+Little Nemo - The Dream Master (U)
+Little Samson (U) [!]
+Lode Runner (U)
+Lone Ranger, The (U)
+Low G Man (U)
+Mad Max (U)
+Magic of Scheherazade, The (U)
+Magmax (U)
+Mappy-Land (U)
+MC Kids (U)
+Mechanized Attack (U)
+Mega Man (U)
+Mega Man 2 (U)
+Mega Man 3 (U)
+Mega Man 3 (Prototype) (U)
+Mega Man 4 (U)
+Mega Man 5 (U)
+Mega Man 6 (U)
+Metroid (U)
+Mendel Palace (U)
+Metal Gear (U)
+Metal Mech (U)
+Metal Storm (U)
+Mickey Mousecapade (U)
+Micro Machines (Unl) (U)
+Mighty Bomb Jack (U)
+Mighty Final Fight (U)
+Mike Tyson's Punch-Out!! (U) (PRG 0)
+Milon's Secret Castle (U)
+Mission Impossible (U)
+Monster in My Pocket (U)
+Mutant Virus, The (U)
+Mystery Quest (U)
+NARC (U)
+Nightmare On Elm Street, A (U)
+Ninja Crusaders (U)
+Ninja Gaiden (U)
+Ninja Gaiden (U) [a1]
+Ninja Gaiden (U) [a2]
+Ninja Gaiden 2 - The Dark Sword of Chaos (U) (Prototype)
+Ninja Gaiden 2 - The Dark Sword of Chaos (U)
+Ninja Gaiden 3 - The Ancient Ship of Doom (U)
+Ninja Kid (U)
+Operation Wolf (U)
+Pac-Man (U)
+Pac-Man (U) (Namco)
+Pac-Man (Tengen) (U)
+Panic Restaurant (U)
+Paperboy (U)
+Paperboy 2 (U)
+Peter Pan & The Pirates (U)
+Phantom Fighter (U)
+POW - Prisoners of War (U)
+Power Blade (U)
+Power Blade 2 (U) [!]
+Predator (U)
+Prince of Persia (U) [!]
+Punisher, The (U)
+Q-bert (U)
+Rambo (U)
+Rampage (U)
+Ren & Stimpy Show, The (U)
+Renegade (U)
+Ring King (U)
+River City Ransom (U)
+RoadBlasters (U)
+Robin Hood - Prince of Thieves (U)
+Robocop (U)
+RoboCop 2 (U) (PRG0) [!]
+RoboCop 2 (U) (PRG1) [!]
+Robocop 3 (U)
+Rocketeer, The (U)
+Rockin' Kats (U)
+Rollerblade Racer (U)
+Rollergames (U)
+Rush'n Attack (U)
+Rygar (U)
+SCAT - Special Cybernetic Attack Team (U)
+Section Z (U)
+Seicross (U)
+Shadow of the Ninja (U)
+Shatterhand (U)
+Silk Worm (U)
+Silver Surfer (U)
+Simpsons - Bartman Meets Radioactive Man, The (U)
+Simpsons - Bart Vs the World, The (U)
+Simpsons - Bart Vs the Space Mutants, The (U)
+Code0=04B2-03,Invincible
+Sky Kid (U)
+Sky Shark (U)
+Smash TV (U)
+Snake Rattle'n Roll (U)
+Snake's Revenge (U)
+Snow Bros (U)
+Solomon's Key (U)
+Solstice (U)
+Spelunker (U)
+Spider-Man - Return of the Sinister Six (U) [!]
+Spy Hunter (U)
+Sqoon (U)
+Startropics (U)
+Star Force (U)
+Star Soldier (U)
+Star Trek - 25th Anniversary (U)
+Star Trek - The Next Generation (U)
+Star Voyager (U)
+Star Wars (U)
+Star Wars - The Empire Strikes Back (U)
+Stealth ATF (U)
+Stinger (U)
+Street Cop (U)
+Street Fighter 2010 (U)
+Super C (U)
+Super Mario Bros 2 (PRG 0) (U)
+Super Mario Bros 2 (U) (PRG 1)
+Super Mario Bros 3 (U) (PRG 0)
+Super Mario Bros 3 (U) (PRG 1)
+Super Pitfall (U)
+Swords and Serpents (U)
+TaleSpin (U)
+Target Renegade (U)
+Teenage Mutant Ninja Turtles (U)
+Teenage Mutant Ninja Turtles 2 (U)
+Teenage Mutant Ninja Turtles 3 (U)
+Teenage Mutant Ninja Turtles Tournament Fighters (U)
+Terminator 2 - Judgement Day (U)
+Terra Cresta (U)
+Tiger-Heli (U)
+Time Lord (U)
+Tiny Toon Adventures (U)
+Tiny Toon Adventures 2 - Trouble in Wackyland (U)
+Toki (U)
+Tom & Jerry (and Tuffy) (U)
+Toobin (U)
+Top Gun (U)
+Top Gun - The Second Mission (U)
+Totally Rad (U)
+Total Recall (U)
+Trojan (U)
+Twin Cobra (U)
+Twin Eagle (U)
+Ultima - Quest of the Avatar (U)
+Ultima - Exodus (U)
+Ultima - Warriors of Destiny (U)
+Vice - Project Doom (U)
+Vindicators (U)
+Wacky Races (U)
+Wayne's World (U)
+Who Framed Roger Rabbit (U)
+Whomp'Em (U)
+Wild Gunman (U)
+Willow (U)
+Wizards & Warriors (U)
+Wizards & Warriors 3 (U)
+Wolverine (U)
+Wrath of the Black Manta (U)
+Wurm (U)
+Xexyz (U)
+Yo! Noid (U)
+Zanac (U)
+Zen Intergalactic Ninja (U)
+Legend of Zelda, The (U) (PRG 0)
+Zelda 2 - The Adventure of Link (U)
+Zombie Nation (U)
+Code0=001C-7F,Infinite Health
+Note0=You Can still Die if Caught off Screen
+Code1=053B-09,Infinite Max Continues
+
+//
+//--------------- PAL (E) Region Cheat Codes
+//
+
+Name=Action in New York (E)
+Addams Family, The (E) [!]
+Addams Family, The - Pugsley's Scavenger Hunt (E) (Prototype) [!]
+Addams Family, The - Pugsley's Scavenger Hunt (E) [!]
+Adventures in the Magic Kingdom (E) [!]
+Adventure Island Classic (E)
+Adventures of Lolo (E) [!]
+Adventures of Lolo 2 (E) [!]
+Adventures of Lolo 3 (E) [!]
+Adventures of Bayou Billy, The (E)
+Adventures of Rad Gravity, The (E) [!]
+Air Fortress (E)
+Airwolf (E)
+Alfred Chicken (E) [!]
+Aladdin (E) [!]
+Alien 3 (E) [!]
+Alpha Mission (E) [!]
+Anticipation (E) [!]
+Asterix (E)
+Astyanax (E) [!]
+Attack of the Killer Tomatoes (E) [!]
+BadDudes Vs DragonNinja (E)
+Barker Bill's Trick Shooting (E) [!]
+Batman (E)
+Batman - Return of the Joker (E) [!]
+Batman Returns (E) [!]
+Balloon Fight (E)
+Battletoads (E)
+Battletoads Double Dragon (E)
+Battle of Olympus, The (E)
+Beauty and the Beast (E)
+Bigfoot (E) [!]
+Bionic Commando (E)
+Blaster Master (E)
+Blue Shadow (E)
+Boulder Dash (E)
+Boy and His Blob - Trouble on Blobolonia, A (E)
+Bram Stoker's Dracula (E)
+Bubble Bobble (E)
+Bucky O'Hare (E)
+Bugs Bunny Birthday Blowout, The (E)
+Burai Fighter (E) [!]
+Captain Planet and The Planeteers (E) [!]
+Captain SkyHawk (E) [!]
+Castelian (E)
+Castlevania (E)
+Castlevania 2 - Simon's Quest (E)
+Castlevania 3 - Dracula's Curse (E)
+Caveman Ninja (E)
+Chip 'n Dale Rescue Rangers (E)
+Cobra Triangle (E) [!]
+Crackout (E) [!p]
+Darkman (U) [!]
+Days of Thunder (E) [!]
+Defender of the Crown (E)
+Devil World (E) [!]
+Digger T. Rock - The Legend of the Lost City (E)
+Double Dragon (E)
+Double Dragon II - The Revenge (E) [!]
+Double Dragon 3 - The Sacred Stones (E)
+Dragon Ball (E) (PRG0)
+Dragon's Lair (E)
+Duck Tales 2 (E) (Prototype)
+Duck Tales 2 (E) [!]
+Duck Tales (E)
+Dynablaster (E)
+Eliminator Boat Duel (E) [!]
+Excitebike (E) [!]
+Faxanadu (E)
+Felix the Cat (E) [!]
+Fester's Quest (E) [!]
+Flintstones - The Rescue of Dino & Hoppy, The (E)
+Galaga (E) [!]
+Galaxy 5000 (E) [!]
+Gargoyle's Quest 2 - The Demon Darkness (E)
+Guardian Legend, The (E) [!]
+Gauntlet 2 (E)
+Ghostbusters II (E) [!]
+Ghosts'n Goblins (E)
+Godzilla - Monster of Monsters! (E)
+Goonies 2, The (E)
+Gradius (E)
+Gremlins 2 - The New Batch (E)
+Gun.Smoke (E) [!]
+Hammerin' Harry (E)
+Home Alone 2 - Lost in New York (E) [!]
+Hook (E)
+Hudson's Adventure Island 2 (E)
+Hudson Hawk (E) [!]
+Hunt for Red October, The (E)
+Indiana Jones and the Last Crusade (E) [!]
+Ikari Warriors (E)
+Ironsword - Wizards & Warriors II (E) [!]
+Isolated Warrior (E)
+Jackie Chan's Action Kung Fu (E)
+James Bond Jr (E)
+Jetsons, The - Cogswell's Caper! (E) [!]
+Journey to Silius (E) [!]
+Jungle Book, The (E)
+Jurassic Park (E) [!]
+Kabuki - Quantum Fighter (E)
+Kickle Cubicle (E) [!]
+Kid Icarus (E) (PRG1) [!]
+Kirby's Adventure (E)
+Krusty's Fun House (E)
+Kung Fu (E) [!]
+Legend of Prince Valiant, The (E)
+Legend of Zelda, The (E) (PRG0) [!]
+Lemmings (E) [!]
+Lethal Weapon (E) [!]
+Lion King, The (E)
+Little Samson (E) [!]
+Lifeforce (E)
+Little Nemo - The Dream Master (E)
+Low G Man (E)
+Mach Rider (E) [!]
+Mario Bros. (E) [!]
+Mario Bros. Classic (E) [!]
+McDonaldland (E)
+Mega Man (E)
+Mega Man 2 (E)
+Megaman III (E) (PRG0) [!]
+Mega Man 4 (E)
+Megaman V (E) [!]
+Metal Gear (E)
+Metroid (E)
+Mighty Bomb Jack (E) [!]
+Mike Tyson's Punch-Out!! (E) (PRG 0)
+Mission Impossible (E)
+Monster in My Pocket (E)
+Mr. Gimmick (E)
+New Zealand Story (E)
+Noah's Ark (E)
+Over Horizon (E)
+Pac-Man (Namco) (E)
+Paperboy (E) [!]
+Paperboy 2 (E) [!]
+Parodius (E)
+Pinball (E)
+P.O.W. - Prisoners of War (E) [!]
+Power Blade (E) [!]
+Prince of Persia (E) [!]
+Probotector (E)
+Probotector 2 - Return of the Evil Forces (E)
+Punch-Out!! (E)
+Robocop (E)
+RoboCop 2 (E) [!]
+RoboCop 3 (E) [!]
+Rockin' Kats (E) [!]
+Rod Land (E)
+Rod Land (E) (Prototype) [!]
+Rush'n Attack (E)
+Rygar (E)
+Shadow Warriors (E)
+Shadow Warriors 2 (E)
+Shatterhand (E)
+Simpsons - Bart Vs the Space Mutants, The (E)
+Simpsons, The - Bart Vs. the World (E) [!]
+Simpsons, The - Bartman Meets Radioactive Man (E) [!]
+Smash TV (E)
+Smurfs, The (E)
+Snake Rattle'n Roll (E)
+Snake's Revenge (E)
+Solar Jetman - Hunt for the Golden Warpship (E)
+Solomon's Key (E)
+Solomon's Key 2 (E) [!]
+Solstice (E)
+Spider-Man - Return of the Sinister Six (E) [!]
+Star Force (E) [!]
+Star Wars (E)
+Star Wars - The Empire Strikes Back (E) [!]
+Stealth ATF (E)
+Street Gangs (E)
+Sunman (E) (Prototype)
+Super Spy Hunter (E) [!]
+Super Mario Bros (E)
+Super Mario Bros. (E) (REVB) [!p]
+Super Mario Bros 2 (E)
+Super Mario Bros 3 (E)
+Super Turrican (E)
+Sword Master (E)
+Swords and Serpents (E)
+TaleSpin (E)
+Teenage Mutant Hero Turtles (E)
+Teenage Mutant Hero Turtles 2 (E)
+Teenage Mutant Hero Turtles - Tournament Fighters (E) [!]
+Terminator 2 - Judgement Day (E)
+Tiger-Heli (E)
+Time Lord (E)
+Tiny Toon Adventures (E) [!]
+Tiny Toon Adventures 2 - Trouble in Wackyland (E) [!]
+Top Gun - The Second Mission (E)
+Top Gun (E)
+Totally Rad (E)
+Total Recall (E) [!]
+Trog (E) [!]
+Trojan (E)
+Trolls in Crazyland (E)
+To The Earth (E) [!]
+Tom & Jerry (E) [!]
+Ufouria (E)
+U-four-ia - The Saga (E) (Prototype) [!]
+Werewolf - The Last Warrior (E) [!]
+Willow (E) [!]
+Wizards & Warriors (E)
+Wizards & Warriors III - Kuros - Visions of Power (E) [!]
+Wrath of the Black Manta (E)
+Xevious (E)
+Zelda II - The Adventure of Link (E) (PRG1) [!]
+Zelda 2 - The Adventure of Link (E) (PRG 0)
+Zelda 2 - The Adventure of Link (E) (PRG 2)
+
+//
+//--------------- PAL (F) Region Cheat Codes
+//
+
+Dragon Ball - Le Secret Du Dragon (F)
+
+//
+//--------------- PAL (G) Region Cheat Codes
+//
+
+Banana Prince (G)
+
+//
+//--------------- PAL (I) Region Cheat Codes
+//
+
+Teenage Mutant Ninja Turtles (I)
+
+//
+//--------------- (UNL) Cheat Codes
+//
+
+Aladdin 4 (1995) (Unl) [!]
+Aladdin 4 (1996) (Unl) [!]
+Aladdin 2 (Unl)
+Aladdin 3 (Unl)
+Batman 2 (Unl) (AKA Return of the Joker)
+Bible Adventures (Wisdom Tree) (V1.0)
+Bible Adventures (Wisdom Tree) (V1.1) [!]
+Bible Adventures (Wisdom Tree) (V1.2) [!]
+Bible Adventures (Wisdom Tree) (V1.3) [!]
+Bible Adventures (Wisdom Tree) (V1.4) [!]
+Boogerman (Unl) [!]
+Brush Roller (Unl)
+Castle of Deceit (Bunch) [!]
+Challenge of the Dragon (Color Dreams) [!]
+Chiller (AGCI) [!]
+Chiller (AGCI) [a1][!]
+Chip & Dale 3 (Unl)
+Chou Hen (J) (Joy Van)
+Contra 1993 (Unl)
+Colorful Dragon (Sachen)
+Crystal Mines (Color Dreams) [!]
+

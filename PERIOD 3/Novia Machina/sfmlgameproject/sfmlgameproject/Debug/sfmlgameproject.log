@@ -1,0 +1,146 @@
+﻿  Source.cpp
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(217): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(218): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(219): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(220): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(221): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(313): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(314): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(315): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(316): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(547): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(564): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(564): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(565): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(565): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(569): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(569): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(573): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(574): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(574): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(575): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(575): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(576): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(578): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(579): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(585): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(586): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(587): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(589): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(591): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(592): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(594): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(601): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(870): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(873): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(924): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1050): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1239): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1247): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1272): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1272): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1279): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1279): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1289): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1289): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1296): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1296): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1328): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1328): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1337): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1337): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1351): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1351): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1360): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1360): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1386): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1412): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1437): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1458): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1502): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1717): warning C4018: '<': signed/unsigned mismatch
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1750): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1823): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1824): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1941): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1942): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1945): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1946): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1952): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2078): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2088): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2094): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2095): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2096): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2097): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2101): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2102): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2194): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2195): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2196): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2198): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2199): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2200): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2201): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2205): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2206): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2207): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2234): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2235): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2236): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2237): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2238): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2239): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2240): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2241): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2242): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2244): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2245): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2246): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2247): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2248): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2249): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2250): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2251): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2252): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2253): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2325): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2326): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2640): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2665): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2670): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2701): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2702): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2703): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2704): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2707): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2708): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2709): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2710): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2712): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2723): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2729): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2743): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2746): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2756): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2757): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2761): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2765): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2769): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2773): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2774): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2786): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(2787): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1285): warning C4715: 'isspritehovered': not all control paths return a value
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1302): warning C4715: 'isrecthovered': not all control paths return a value
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1347): warning C4715: 'isspriteclicked': not all control paths return a value
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1376): warning C4715: 'checkspritecollision': not all control paths return a value
+c:\users\taylor hudson\desktop\sfmlgameproject\sfmlgameproject\source.cpp(1370): warning C4715: 'isrectclicked': not all control paths return a value
+  sfmlgameproject.vcxproj -> C:\Users\taylor hudson\Desktop\sfmlgameproject\Debug\sfmlgameproject.exe
+  sfmlgameproject.vcxproj -> C:\Users\taylor hudson\Desktop\sfmlgameproject\Debug\sfmlgameproject.pdb (Partial PDB)

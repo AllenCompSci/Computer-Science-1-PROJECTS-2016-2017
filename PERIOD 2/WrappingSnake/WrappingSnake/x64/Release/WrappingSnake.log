@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(686): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(689): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(718): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\winbgi.cpp(725): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 312 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WrappingSnake.vcxproj -> C:\Users\taylor hudson\Source\Repos\Graphics-WinBGI-2017\WrappingSnake\x64\Release\WrappingSnake.exe
+  WrappingSnake.vcxproj -> C:\Users\taylor hudson\Source\Repos\Graphics-WinBGI-2017\WrappingSnake\x64\Release\WrappingSnake.pdb (Full PDB)

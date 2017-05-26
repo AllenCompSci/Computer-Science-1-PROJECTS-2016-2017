@@ -1,0 +1,4 @@
+﻿  GAME.cpp
+c:\users\taylor hudson\source\repos\graphics-winbgi-2017\chromeg\chromeg\game.cpp(432): warning C4390: ';': empty controlled statement found; is this the intent?
+  chromeG.vcxproj -> C:\Users\taylor hudson\Source\Repos\Graphics-WinBGI-2017\chromeG\Debug\chromeG.exe
+  chromeG.vcxproj -> C:\Users\taylor hudson\Source\Repos\Graphics-WinBGI-2017\chromeG\Debug\chromeG.pdb (Partial PDB)

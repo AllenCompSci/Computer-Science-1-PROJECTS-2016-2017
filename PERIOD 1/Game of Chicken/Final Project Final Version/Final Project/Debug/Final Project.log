@@ -1,0 +1,7 @@
+﻿  Source.cpp
+n:\computer science 1\period 1\tripathi, ishi\comp sci final project\final project final version\final project\source.cpp(164): warning C4804: '<=': unsafe use of type 'bool' in operation
+n:\computer science 1\period 1\tripathi, ishi\comp sci final project\final project final version\final project\source.cpp(167): warning C4804: '<=': unsafe use of type 'bool' in operation
+n:\computer science 1\period 1\tripathi, ishi\comp sci final project\final project final version\final project\source.cpp(439): warning C4804: '<=': unsafe use of type 'bool' in operation
+n:\computer science 1\period 1\tripathi, ishi\comp sci final project\final project final version\final project\source.cpp(465): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Final Project.vcxproj -> N:\Computer Science 1\Period 1\Tripathi, Ishi\Comp Sci Final Project\Final Project Final Version\Debug\Final Project.exe
+  Final Project.vcxproj -> N:\Computer Science 1\Period 1\Tripathi, Ishi\Comp Sci Final Project\Final Project Final Version\Debug\Final Project.pdb (Partial PDB)

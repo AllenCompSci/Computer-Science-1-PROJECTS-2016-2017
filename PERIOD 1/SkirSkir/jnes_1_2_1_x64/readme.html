@@ -1,0 +1,696 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jnes Documentation</title>
+    <link rel="StyleSheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
+    
+    <style>
+        body {
+            background-color: white;
+            position: relative;
+        }
+        .separator {
+            line-height: 370%;
+        }
+    </style>
+</head>
+<body data-spy="scroll" data-offset="100" data-target="#scroll-target">
+    
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Jnes Documentation</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right" style="margin-right: 12px;">
+                    <li><a href="http://www.jabosoft.com/jnes" target="_new">Homepage</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="container" style="padding-top:65px;">
+        <div class="row">
+            <div class="col-sm-3 hidden-sm hidden-xs visible-md-block visible-lg-block">
+                <div id="scroll-target" style="position: fixed;">
+                    <h5 style="color: gray;">CONTENTS</h5>
+                    <ul class="nav nav-pills nav-stacked" role="tablist">
+                        <li role="presentation"><a href="#introduction">Introduction</a></li>
+                        <li role="presentation"><a href="#features">Features</a></li>
+                        <li role="presentation"><a href="#requirements">Requirements</a></li>
+                        <li role="presentation"><a href="#using">Using</a></li>
+                        <li role="presentation"><a href="#versions">Versions</a></li>
+                        <li role="presentation"><a href="#thanks">Thanks</a></li>
+                        <li role="presentation"><a href="#disclaimer">Disclaimer</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-9">
+                <h2>Jnes<br /><small>Nintendo Entertainment System Emulator for Windows<br />Coded by Jabo</small></h2>
+                <br id="introduction" class="separator" />
+                <div class="well well-sm">
+                    <b>INTRODUCTION</b>
+                </div>
+                <p>
+                    Jnes is a personal project to explore a love of the NES and learn more about programming. Development of Jnes started many years ago, around 1999, it was a very exciting to
+                    engage in a thriving community of reverse engineers and emulator developers. Today Jnes is a more mature piece of software that is capable of playing most
+                    games and as best it can, emulating the original NES.
+                </p>
+                <p>
+                    <span class="label label-warning">Important</span> Jnes is freeware, it is not to be distributed with games, it is not to be modified, sold, or repackaged in any way. See the disclaimer for further information.
+                </p>
+                <br id="features" class="separator" />
+                <div class="well well-sm">
+                    <b>FEATURES</b>
+                </div>
+                <h5>Hardware Features</h5>
+                <ul>
+                    <li>All CPU, PPU, and APU features of the original NES</li>
+                    <li>Cart battery backed RAM</li>
+                    <li>Konami VRC6 Sound</li>
+                    <li>NES mappers 0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 21, 23, 24, 25, 26, 32, 34, 66, 68, 69, 70, 71, 75, 79, 85, 113, 152, 225, 234</li>
+                    <li>Zapper gun</li>
+                </ul>
+                <h5>Emulator Features</h5>
+                <ul>
+                    <li>Game Genie and Pro Action Replay cheat support with search</li>
+                    <li>Fullscreen and Windowed mode with graphics filters</li>
+                    <li>Record gameplay to video, image, or audio file</li>
+                    <li>Save and Load nes state from file (11 slots)</li>
+                    <li>Configurable input</li>
+                    <li>Sound visualization</li>
+                    <li>Rom browser</li>
+                    <li>Realtime patching of ROMS using the IPS format</li>
+                    <li>ZIP file loading</li>
+                    <li>Nintendo Sound Format (NSF) playback</li>
+                    <li>Netplay via Kaillera</li>
+                </ul>
+                <br id="requirements" class="separator" />
+                <div class="well well-sm">
+                    <b>SYSTEM REQUIREMENTS</b>
+                </div>
+                <p>Windows Vista, 7, 8, 8.1, 10</p>
+                <p>Direct3D 9.0 capable 2D acceleration</p>
+                <br />
+                <p>Jnes is a Unicode application targetting Windows XP and higher. NES emulation by todays standards requires only a modest amount of computing power. The emulation core in Jnes leans towards performance than accuracy in most cases.</p>
+                <p><span class="label label-info">Helpful</span> Graphics filters require significantly more processing time.</p>
+
+                <!-- USING JNES -->
+                <br id="using" class="separator" />
+                <div class="well well-sm">
+                    <b>USING JNES</b>
+                </div>
+                <p>
+                    In this section you will find more detailed information about various topics that are either commonly asked or worth documenting.
+                    While Jnes is very easy to pick up and learn to use, this document is not intended as an end user guide. If you are not familiar
+                    with emulation it may be a good idea to familiarize yourself with the basics before embarking on trying to use this.
+                </p>
+                <br />
+                <ol class="breadcrumb">
+                    <li class="active">Zapper</li>
+                </ol>
+
+                <p>
+                    Zapper emulation is available by using the mouse to simulate both aiming and the trigger via left mouse click. To enable zapper emulation
+                    navigate to: Menu &#9654; Options &#9654; Input &#9654; Player 2
+                </p>
+                <br />
+
+                <ol class="breadcrumb">
+                    <li class="active">Patches</li>
+                </ol>
+                <p>
+                    IPS files are patches that alter a game for purposes such as language translation or to create a new game experience.
+                    Jnes has the ability to apply IPS files if they are in the same folder as the rom image automatically.
+                </p>
+
+                <table class="table" style="width:300px;">
+                    <caption>Consider the following file names for example:</caption>
+                    <thead>
+                        <tr>
+                            <th>Game file</th>
+                            <th>Patch file</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Megaman 2 (U).nes</td>
+                            <td>Megaman 2 (U).ips</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>
+                    If you prefer to not have Jnes ask before applying an IPS patch you can change this in the settings dialog. A resource for downloading
+                    patches may be found at <a href="http://www.romhacking.net" target="_new">romhacking.net</a>
+                </p>
+                <br />
+
+                <ol class="breadcrumb">
+                    <li class="active">Keyboard Shortcuts</li>
+                </ol>
+                <p>There are many keyboard shortcuts available in Jnes for convenience, below a list of some of the more common ones to learn:</p>
+
+                <table class="table" style="width:300px;">
+                    <thead>
+                        <tr>
+                            <th>Keys</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Alt + Enter</td>
+                            <td>Toggle fullscreen</td>
+                        </tr>
+                        <tr>
+                            <td>Esc</td>
+                            <td>Return to windowed</td>
+                        </tr>
+                        <tr>
+                            <td>F1</td>
+                            <td>Reset</td>
+                        </tr>
+                        <tr>
+                            <td>F2</td>
+                            <td>Pause or Resume</td>
+                        </tr>
+                        <tr>
+                            <td>F3</td>
+                            <td>Capture screen image</td>
+                        </tr>
+                        <tr>
+                            <td>F4</td>
+                            <td>Record sound</td>
+                        </tr>
+                        <tr>
+                            <td>F5</td>
+                            <td>Save state</td>
+                        </tr>
+                        <tr>
+                            <td>F7</td>
+                            <td>Load state</td>
+                        </tr>
+                        <tr>
+                            <td>Tilde, 0-9</td>
+                            <td>Quick change save slot</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br />
+                <ol class="breadcrumb">
+                    <li class="active">Import and Export Saves</li>
+                </ol>
+                <p>
+                    Save files are stored in a sub folder relative to Jnes called 'saves'.
+                    In order to import or export files from this location you may simply move files in and out of this directory.
+                </p>
+
+                <p>
+                    <span class="label label-info">Helpful</span>&nbsp;Files are named according to
+                    the game that is played, when importing saves take special care to ensure that save file names match the game file or Jnes will be unable to find your saves.
+                </p>
+                <table class="table" style="max-width: 500px;">
+                    <caption>There are two types of save files in Jnes:</caption>
+                    <thead>
+                        <tr>
+                            <th style="width: 125px;">File Extension</th>
+                            <th>Type of save</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>.JST, .JS0-9</td>
+                            <td>Captures entire system state and restores to a point in time</td>
+                        </tr>
+                        <tr>
+                            <td>.SAV</td>
+                            <td>Memory that resides on the cartridge for saving game progress, battery backed</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>
+                    If you intend on using the cartridge save data it is worth familiarizing yourself with a game's save system prior to playing it.
+                    For example, most games require you to explicitly save your progress and will not do so automatically.
+                </p>
+                <p>Cartridge saves are automatically stored to disk when emulation ends if present.</p>
+                <br id="kaillera" class="separator" />
+                <ol class="breadcrumb">
+                    <li class="active">Safely close a Kaillera session</li>
+                </ol>
+                <p>
+                    Due to limitations with the kaillera API, it's not possible for Jnes to know when the chat window is closed. To safely end your gameplay use the
+                    following steps:
+                </p>
+                <ol>
+                    <li>Menu &#9654; File &#9654; Close</li>
+                    <li>Select cancel in Kaillera chat window</li>
+                    <li>Close Kaillera chat window</li>
+                    <li>Close Kaillera server selection dialog</li>
+                </ol>
+                <br />
+                <ol class="breadcrumb">
+                    <li class="active">Command line</li>
+                </ol>
+                <p>Jnes.exe ?-switches? "game"</p>
+                <table class="table" style="max-width: 600px;">
+                    <caption>Switches are as follows:</caption>
+                    <thead>
+                        <tr>
+                            <th style="width: 125px;">Switch</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>-relaunchmce</td>
+                            <td>when Jnes exits it will bring Windows Media Center (ehome.exe) back to the foreground</td>
+                        </tr>
+                        <tr>
+                            <td>-exitonclose</td>
+                            <td>when emulation ends the application closes instead of bringing you back to a rom browser</td>
+                        </tr>
+                        <tr>
+                            <td>-disablestatekeys</td>
+                            <td>disables the save state shortcut keys</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!-- VERSION HISTORY -->
+                <br id="versions" class="separator" />
+                <div class="well well-sm">
+                    <b>VERSIONS</b>
+                </div>
+                <h5>Version 1.2.1 <small>1/15/2017</small></h5>
+                <ul>
+                    <li>fixed pov inputs</li>
+                    <li>fixed windows xp</li>
+                </ul>
+                <h5>Version 1.2 <small>12/25/2016</small></h5>
+                <ul>
+                    <li>bugfix: mouse is no longer required</li>
+                    <li>bugfix: konami vrc2 games</li>
+                    <li>bugfix: puzznic, bases loaded 2</li>
+                    <li>bugfix: large IPS files</li>
+                    <li>better support for mmc5 graphics</li>
+                    <li>improved emulation accuracy</li>
+                    <li>cheat search workspace auto-saves in case of crash</li>
+                    <li>upgraded to Direct3D 9.0 and DirectInput 8.0</li>
+                    <li>added konami mappers 75 (vrc1), 85 (vrc7)</li>
+                    <li>replaced audio channel menu with volume mixer</li>
+                    <li>updated app icon</li>
+                </ul>
+                <h5>Version 1.1.1 <small>6/8/2013</small></h5>
+                <ul>
+                    <li>bugfix: editing par codes</li>
+                    <li>bugfix: saving settings on exit</li>
+                    <li>bugfix: proper handling of 6502 B-flag</li>
+                    <li>bugfix: megaman audio artifacts</li>
+                    <li>bugfix: zelda intro scrolling</li>
+                    <li>bugfix: ninja gaiden 2 train level</li>
+                    <li>bugfix: tmnt1 technodrome crash</li>
+                    <li>bugfix: apu envelope resets correctly now</li>
+                    <li>bugfix: vrc6 phase was broken</li>
+                    <li>improved ppu sprite0 emulation</li>
+                    <li>dpcm and triangle channels should decay better</li>
+                    <li>added mapper vrc6b</li>
+                </ul>
+                <h5>Version 1.1 <small>2/20/2012</small></h5>
+                <ul>
+                    <li>bugfix: window sizing was slightly wrong on windows 7</li>
+                    <li>bugfix: window icon would disappear when coming out of fullscreen on windows 7</li>
+                    <li>bugfix: rom browser mode changes didn't update the window properly</li>
+                    <li>bugfix: multiple monitors should work now</li>
+                    <li>bugfix: input Z-axis was be read incorrectly</li>
+                    <li>bugfix: california games bmx event fixed</li>
+                    <li>bugfix: NSF works again properly</li>
+                    <li>bugfix: stereo audio splits channels again</li>
+                    <li>all save and open dialogs now default to the user documents folder</li>
+                    <li>rom browser is now faster when used with a network share</li>
+                    <li>kaillera should be significantly more reliable to use</li>
+                    <li>improved timing and removed extended vblank</li>
+                    <li>rewrote artwork rom browser mode into tile view</li>
+                    <li>cheat memory search</li>
+                    <li>replaced 2xSaI with HQ filters</li>
+                </ul>
+                <h5>Version 1.0.2 <small>2/6/2010</small></h5>
+                <ul>
+                    <li>bugfix: full screen filters were broken</li>
+                    <li>bugfix: video dialog would accidently clear the filter while changing resolutions</li>
+                    <li>bugfix: rewrote mapper 23 (vrc2) vrom handling to fix Crisis Force</li>
+                </ul>
+                <h5>Version 1.0.1 <small>9/6/2008</small></h5>
+                <ul>
+                    <li>bugfix: PAR cheats value selection</>
+                    <li>bugfix: mapper 69 irq default value</li>
+                    <li>bugfix: solar jetman sound issue</li>
+                    <li>bugfix: bank masking issue</li>
+                    <li>rewrote fullscreen network chat to be faster</li>
+                    <li>added command line option -disablestatehotkeys</li>
+                    <li>custom palettes subfolder with drop down list</li>
+                </ul>
+                <h5>Version 1.0 <small>12/25/2007</small></h5>
+                <ul>
+                    <li>bugfix: command line arguments, added switches -relaunchmce -exitonclose</li>
+                    <li>bugfix: fixed multiple rom browser sorting issues</li>
+                    <li>bugfix: fixed input POV-hat diagonals</li>
+                    <li>bugfix: fixed palette dialog</li>
+                    <li>bugfix: PAL raw audio timing</li>
+                    <li>bugfix: vsync no longer lags</li>
+                    <li>upgraded to a static zlib 1.2.3</li>
+                    <li>options are now stored in Jnes.ini instead of registry</li>
+                    <li>added software filter to 4x windowed and fullscreen</li>
+                    <li>added windowed mode vsync (experimental)</li>
+                    <li>added fullscreen status messages for states, kaillera, low battery</li>
+                    <li>added setup and autoconfig buttons to input dialog</li>
+                    <li>added a limit fps option</li>
+                    <li>added mapper #225,#235</li>
+                    <li>new browser artwork display mode available in settings dialog</li>
+                    <li>rom browser now caches things quietly for quicker startup</li>
+                    <li>support for capturing movies and rendering them to an AVI</li>
+                    <li>new kaillera dialog to streamline using it</li>
+                    <li>support for external languages in utf-8 format</li>
+                    <li>redid rom info dialog into a nicer table</li>
+                    <li>new system information dialog</li>
+                    <li>added warning for netplay regarding extended vblank</li>
+                    <li>extended kaillera packets with mini state information</li>
+                    <li>kaillera chat via Ctrl+T in fullscreen</li>
+                    <li>new palette options</li>
+                    <li>added blargg's nes_ntsc filter</li>
+                </ul>
+                <br />
+                <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseHistory" aria-expanded="false" aria-controls="collapseHistory">
+                    Show archived history
+                </button>
+                <br />
+                <br />
+                <div class="collapse" id="collapseHistory">
+                    <div class="well">
+                        <h5>Version 0.6 <small>2/5/2005</small></h5>
+                        <ul>
+                            <li>zapper now changes cursor to crosshair in game</li>
+                            <li>rom browser part of main window, auto selects last rom, recent dir list</li>
+                            <li>fixed mutex for video dialog</li>
+                            <li>major cheats rewrite and database update, support for PAR codes</li>
+                            <li>automatic region setting (uses GoodRom name convention)</li>
+                            <li>added some simple mappers: 32,71,79,113</li>
+                            <li>fixed sleep in background issues introduced in last release</li>
+                            <li>support for ppu monochrome mode</li>
+                            <li>input now supports Z,Rx,Ry,Rz axis</li>
+                            <li>turbo buttons are mappable separately</li>
+                            <li>slot menu now has the timestamp of the state</li>
+                        </ul>
+                        <h5>Version 0.5.3 <small>6/5/2004</small></h5>
+                        <ul>
+                            <li>fixed browser with zip files</li>
+                            <li>netplay now caches rom list, useful if you have thousands of roms</li>
+                            <li>fixed auto full screen preference saving bug from 0.5.2</li>
+                            <li>fixed audio graph performance on XP</li>
+                            <li>fixed NSF playback timing</li>
+                            <li>palette open default current dir, and saving fixed</li>
+                            <li>added support for PAL 50fps</li>
+                            <li>updated dinput from 6.0 to 7.0</li>
+                            <li>fixed windows 98 compatibility bug from 0.5.2</li>
+                            <li>updated documentation slightly</li>
+                            <li>modified audio timing slightly to reduce lag</li>
+                        </ul>
+                        <h5>Version 0.5.2 <small>11/5/2003</small></h5>
+                        <ul>
+                            <li>Added 48x48 icon for Windows XP view</li>
+                            <li>Now supports play/stop on some multimedia keyboards</li>
+                            <li>Fixed windows message queue handling problem</li>
+                            <li>Rom Browser separates path now</li>
+                            <li>Full screen resolutions can use Super 2x SaI</li>
+                            <li>A stretched version of Super 2x SaI added to 3x and 4x</li>
+                        </ul>
+                        <h5>Version 0.5.1 <small>02/28/2003</small></h5>
+                        <ul>
+                            <li>Fixed multiple audio thread creation (woops)</li>
+                            <li>Centered full screen non-stretched screen updates</li>
+                            <li>Joypad reads now have correct upper 4 bit bus data</li>
+                            <li>Fixed joypad configuaration bug</li>
+                            <li>Added turbo fire for buttons A & B option</li>
+                            <li>Kaillera rom directory is now global, and supports .ZIP files</li>
+                            <li>Fixed some MMC5 things, still doesnt work great tho</li>
+                            <li>Updated direct draw to newer interface</li>
+                        </ul>
+                        <h5>Version 0.50 <small>01/17/2003</small></h5>
+                        <ul>
+                            <li>Audio thread now runs all the time, stopping emulation is faster</li>
+                            <li>Full screen clears all buffers for triple buffering, and correctly saves window position</li>
+                            <li>Fixed some minor user interface bugs</li>
+                            <li>Fixed NSF screen and made look nicer</li>
+                            <li>Implemented more input axes such as POV and slider</li>
+                            <li>more cheats, dbase also works better on win9x</li>
+                            <li>changed dpcm frequencies slightly, older style</li>
+                        </ul>
+                        <h5>Version 0.50 Beta 2 <small>07/20/2002</small></h5>
+                        <ul>
+                            <li>Fixed recent menu saving to registry</li>
+                            <li>Fixed status bar when rom is opened</li>
+                            <li>Windowed blitter now has choice adds Super2xSai and Scanlines</li>
+                            <li>Fixed mask generation, more roms should work</li>
+                            <li>Main window and rom browser positions saved on exit</li>
+                            <li>Cheats window moved around, multi-line cheats in dbase supported</li>
+                            <li>Packed more into each 24bpp xlation write, hopefully improves speed</li>
+                            <li>Fixed 15 bit color mode</li>
+                            <li>Cheats file has seen some enhancements</li>
+                        </ul>
+                        <h5>Version 0.50 Beta 1 <small>07/10/2002</small></h5>
+                        <ul>
+                            <li>Fixed Deady Towers, Mapper 34</li>
+                            <li>Fixed an issue with palettes that affected Archon</li>
+                            <li>Added code toggling to the game genie interface (usually works without reset)</li>
+                            <li>Cheats are now a single file, and some popular ones are included</li>
+                            <li>Game genie usage in MMC3 games is now fixed</li>
+                            <li>Tweaked noise a little bit, more like 0.30a which was better</li>
+                            <li>Added a NES stereo sound option, usually pretty nice!</li>
+                            <li>Better menu handling while files are not active</li>
+                            <li>Recent menu is a little nicer, stamping is better, also deletes invalid entries</li>
+                            <li>Fixed bitmap capturing in triple buffer full screen</li>
+                            <li>Rewrote Direct Draw locking logic</li>
+                            <li>Direct Sound library used is same as other projects</li>
+                            <li>Using accelerators now, keyboard shortcuts improved and more reliable</li>
+                            <li>PPU rendering rewritten for palette based rendering (slower, more accurate..)</li>
+                            <li>Added network play support via the Kaillera 0.90</li>
+                            <li>Added a video timing option to allow and extra line of vblank (fixes graphics glitches in bubble bobble 2, blades of steel, etc)</li>
+                            <li>Window position remembered when returning to windowed mode from full screen</li>
+                            <li>Put back 24-bit rendering (works?) and removed 8-bit from full screen</li>
+                            <li>Rom Browser added, sort by name, mapper, and battery saves</li>
+                            <li>j6502 was ported back to C from X86 assembly (hopefully no difference... maybe slower on old computers)</li>
+                            <li>New settings dialog: file association (thanks zilmar), IPS patching functionality, directory paths</li>
+                            <li>Direct Input library has improved error detection for disconnected joypads on load, and tabbed dialog</li>
+                            <li>New video dialog, replaces the old series of menus, also adds enumeration of full screen display modes</li>
+                            <li>Brand new help file (thanks to smiff for the inspiration)</li>
+                            <li>ZIP file support using ZLIB 1.1.4 DLL, only for NES roms</li>
+                            <li>Almost every other aspect has seen rewrites and cleanups over time..</li>
+                        </ul>
+                        <h5>Version 0.40 beta 2 <small>01/21/2001</small></h5>
+                        <ul>
+                            <li>Put a cap on direct input error handling during game play</li>
+                            <li>Rewrote some window handling routines for full screen</li>
+                            <li>Fixed a bug in the window size menu-check handling</li>
+                            <li>Initialized the task variable to zero correctly, hopefully this fixes problems people experienced with save states doing odd stuff!</li>
+                        </ul>
+                        <h5>Version 0.40 beta 1 <small>01/06/2001</small></h5>
+                        <ul>
+                            <li>Implemented audio updates 4 times per frame via queue, might slow down performance so I waited this long to do something drastic like this, sounds great tho</li>
+                            <li>16-bit audio and mixing</li>
+                            <li>Raw PCM emulated nicer now..</li>
+                            <li>Noise and Pulse volume enveloping corrected I hope</li>
+                            <li>Tri counters fixed? (Thanks to Matt Conte for the doc on nesdev a while back)</li>
+                            <li>Pulse freq sweeps rewritten finally, put this off a long time</li>
+                            <li>DPCM rewritten from scratch, big difference in beat style</li>
+                            <li>Vertical scroll problem fixed in TMNT</li>
+                            <li>Changed the scanlines back to 262, this makes a game I know not work right but I feel having correct timing is the right way to go</li>
+                            <li>Another NSF loading problem fixed</li>
+                            <li>Sunsoft Mapper fixes and speedups</li>
+                            <li>Implemented an accurate real-time zapper read handler, didnt realize necessary..</li>
+                            <li>Small transparency fix for some games (Windowed only)</li>
+                            <li>Added ability to load external palettes or keep default, 3-byte RGB triplets</li>
+                            <li>Integrated NSF support into the j6502 main cpu core, via small hack</li>
+                            <li>Rewrote sign flag, and IP handling in j6502, speedup</li>
+                            <li>Window 3X mode added</li>
+                            <li>Added an option for NES 8-pixel clipping emulation</li>
+                            <li>Sprite0 hits tweaked a little</li>
+                            <li>Rewritten Game Genie from scratch, max codes is 64 per game</li>
+                            <li>Rewritten PPU Rendering, which removed MMX/ASM speedups, still fast tho</li>
+                            <li>Rewrote direct draw frame locking technique, dangerous when jnes crashes..</li>
+                            <li>Removed 24bpp rendering support, useless, slow etc, use 16/32</li>
+                            <li>Rewritten entire banking system for cpu and ppu, speed boost</li>
+                            <li>Added a recent menu into the interface, quite nice</li>
+                            <li>Rewrote every mapper, less memory used, faster speed, save state friendly</li>
+                            <li>Rewrote sound graph, more friendly to direct draw these days</li>
+                            <li>Rewrote bitmap capture code from scratch, faster and nicer.</li>
+                            <li>Finally released the partial MMC5 support, not the most accurate emulation, but it is good enough to play Castlevania III US well, which is good enough..</li>
+                            <li>Tweaked save states to save the new structures as well</li>
+                            <li>Rewrote ppu mapper tile handling, works right now, no hack</li>
+                            <li>Started allocating and releasing large chunks of memory nicely</li>
+                            <li>Direct Input 2-Player code rewritten, smaller, easier to maintain, as well as the option to completely? tweak the devices</li>
+                            <li>Changed quick-save to F7 key, F6 was too close to F5 really, you could hit it accidently</li>
+                            <li>Added save slots selection to the Cpu menu, it might of been confusing because it was previously only accessible on the keyboard</li>
+                        </ul>
+                        <h5>Version 0.30a <small>01/04/2000</small></h5>
+                        <ul>
+                            <li>PCM exception problem solved</li>
+                            <li>NSF Banking fixed</li>
+                        </ul>
+                        <h5>Version 0.30 <small>12/25/1999</small></h5>
+                        <ul>
+                            <li>Internal NSF Player</li>
+                            <li>Added nsf files to command line load</li>
+                            <li>Added NINA-1 Emulation (iNES #34)</li>
+                            <li>Fullscreen Triple Buffering</li>
+                            <li>Improvements to PCM decoding</li>
+                            <li>Solved an mmc3 IRQ problem</li>
+                            <li>Fixed sprite priorities a little more</li>
+                            <li>Fixed zapper in 24/32 bpp</li>
+                            <li>Screen captures work in 8bpp</li>
+                            <li>Performance enhancements</li>
+                            <li>Keyboard reading now includes the numkeys for d-pad.</li>
+                            <li>DirectX dialog more informative</li>
+                            <li>Fixed the CPUID problem on Cyrix CPU's</li>
+                            <li>Removed surface fills at the beginning of frame, this reduces DirectDraw overhead for old hardware</li>
+                        </ul>
+                        <h5>Version 0.26c <small>10/26/1999</small></h5>
+                        <ul>
+                            <li>Corrected registry alignment issues</li>
+                            <li>Saves last directory to registry</li>
+                        </ul>
+                        <h5>Version 0.26b <small>10/23/1999</small></h5>
+                        <ul>
+                            <li>PCM channel improvements</li>
+                            <li>Higher quality audio generation</li>
+                            <li>Direct Input interface fixes</li>
+                        </ul>
+                        <h5>Version 0.26a <small>10/20/1999</small></h5>
+                        <ul>
+                            <li>Direct Input enumerator supports multiple gamepads that are under the same name.</li>
+                            <li>Corrected the new dpcm buffering for games that use large buffers with low frequencies.</li>
+                            <li>Implemented zapper into the via the mouse, preliminary but works in a few games</li>
+                        </ul>
+                        <h5>Version 0.26 <small>10/09/1999</small></h5>
+                        <ul>
+                            <li>Added Konami VRC4 Emulation (iNES #21)</li>
+                            <li>Added Konami VRC2b Emulation (iNES #23)</li>
+                            <li>Added Konami VRC4b Emulation (iNES #25)</li>
+                            <li>Added Konami VRC6 Sound Emulation, Thanks to Kevin Horton for his docs</li>
+                            <li>Improved PCM channel emulation</li>
+                            <li>Minor MMC1/MMC3 mirroring change</li>
+                            <li>Tweaked MMC3 IRQ</li>
+                            <li>Fixed 4-window vram</li>
+                            <li>Support for Controller #2</li>
+                            <li>Put back correct palette reading</li>
+                            <li>Fixed game genie length detection</li>
+                            <li>Major 6502 core optimizations</li>
+                            <li>MMX enhanced PPU emulation</li>
+                            <li>DirectSound is now used again</li>
+                            <li>Dialog for input devices with button config</li>
+                            <li>Background Sleep is now an option</li>
+                            <li>Sound output graph</li>
+                        </ul>
+                        <h5>Version 0.21 <small>08/25/1999</small></h5>
+                        <ul>
+                            <li>Added MMC4 Emulation (iNES #10)</li>
+                            <li>Added Sunsoft Mapper #4 (iNES #68)</li>
+                            <li>Tweaked MMC3 IRQ Slightly</li>
+                            <li>MMC1 Bankswitching changed</li>
+                            <li>PPU moved into seperate assembly files</li>
+                            <li>Fixed a long time Vertical scroll bug</li>
+                            <li>Minor GameGenie save fix</li>
+                            <li>Modified the Direct Input Axis mode</li>
+                            <li>Documentation updated for Sidewinders</li>
+                            <li>Fixed small windowing problem.</li>
+                            <li>Removed DirectSound, switched to a hopefully more reliable audio method</li>
+                            <li>Vsync removed as a result of timing.</li>
+                            <li>FPS meter disabled in full screen</li>
+                            <li>Lots of other options were taken out</li>
+                            <li>Keyboard reading works on NT4 SP4 (DX3)</li>
+                        </ul>
+                        <h5>Version 0.20 <small>08/20/1999</small></h5>
+                        <ul>
+                            <li>Fixed triangle frequencies and hold note</li>
+                            <li>Fixed flag sets when RTI,NMI,BRK happens</li>
+                            <li>Well, RCR/RCL doesn't set ZF</li>
+                            <li>Added MMC1 512/1024 kb ROM support</li>
+                            <li>Added Konami VRC6 (iNES #24)</li>
+                            <li>Added Nintendo MMC2 (iNES #9)</li>
+                            <li>Better MMC3 IRQ</li>
+                            <li>Improved Sprite priorities and hits</li>
+                            <li>Improved Frequency Sweeping</li>
+                            <li>Preliminary RAW PCM sound emulation</li>
+                            <li>Noise channel enveloping fixes</li>
+                            <li>DPCM Irq's Disabled</li>
+                            <li>Changed save state format to save all audio data, added padding for future modifications</li>
+                            <li>Game Genie Emulation is now alot better</li>
+                            <li>Support for trained roms</li>
+                            <li>Sprite priority in 24-bit are better</li>
+                            <li>Small speed-up in 16-bit rendering</li>
+                            <li>Windows 98 SE compatible</li>
+                            <li>Rewritten interface, structured better</li>
+                            <li>Record wave save dialog box</li>
+                            <li>Read-only files open now</li>
+                            <li>Frames per second counter available for full screen mode only if Vsync is turned on.</li>
+                            <li>New Stretch mode added to full screen</li>
+                            <li>Fixed bitmap writing in RGB555 mode</li>
+                            <li>Wait for Vsync only affects full screen video mode</li>
+                            <li>Timing uses new higher performance method</li>
+                            <li>All threading and program halt problems are fixed</li>
+                        </ul>
+                        <h5>Version 0.10 <small>08/05/1999</small></h5>
+                        <ul>
+                            <li>Initial release</li>
+                        </ul>
+                    </div>
+                </div>
+                <br id="thanks" class="separator" />
+                <!-- THANKS -->
+                <div class="well well-sm">
+                    <b>THANKS</b>
+                </div>
+                <p>Jnes would not be possible without the work or assistance of the following people:</p>
+                <ul>
+                    <li>TNSe, Nyef, Xodnizel, FireBug, Loopy, Goroh</li>
+                    <li>Jeremy Chadwick, Matthew Conte, Kevin Horton</li>
+                    <li>Many others from the nesdev community</li>
+                </ul>
+                <p>Gent for creating the cheats database and invaluable feedback through the years that has made Jnes even more special</p>
+                <p>Everyone who was kind to me through the years on IRC/Efnet and EmuTalk.net</p>
+                <br />
+                <p>Additionally Jnes uses the following libraries:</p>
+                <p><a href="http://zlib.net">zlib</a> - zip file decompression library</p>
+                <p><a href="http://getbootstrap.com" target="_blank">bootstrap</a> - style framework that makes this documentation look good</p>
+                <p><a href="http://kaillera.com" target="_blank">kaillera</a> - online gameplay network and library</p>
+                <p><a href="http://vdnoort.home.xs4all.nl/emulation/2xsai" target="_blank">2xsai</a> - upscaling graphics filter</p>
+                <br id="disclaimer" class="separator" />
+                <div class="well well-sm">
+                    <b>DISCLAIMER</b>
+                </div>
+                <p>Jnes, Copyright 1999-2016 Jabo</p>
+                <p>
+                    The NES is a registered trademark of Nintendo.<br />
+                    Game Genie is a registered trademark of Galoob.
+                </p>
+                <p>
+                    The author is not affiliated with Nintendo of America, or any other company mentioned in this documentation.
+                    This software is freeware and may never be sold or repackaged in any way. You use this software at your own risk,
+                    the author is not responsible for any loss or damage resulting from the use of this software. If you do not agree
+                    with these terms do not use this software.
+                </p>
+                <br />
+            </div>
+        </div>
+    </div><!-- /.container -->
+</body>
+</html>

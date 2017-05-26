@@ -1,0 +1,20 @@
+﻿  ConsoleApplication1.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(379): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'char *' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(379): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(456): error C2664: 'DWORD FormatMessageW(DWORD,LPCVOID,DWORD,DWORD,LPWSTR,DWORD,va_list *)': cannot convert argument 5 from 'char [256]' to 'LPWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(456): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(686): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': cannot convert argument 4 from 'const char *' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(686): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(689): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': cannot convert argument 4 from 'const char *' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(689): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(718): error C2664: 'BOOL GetTextExtentPoint32W(HDC,LPCWSTR,int,LPSIZE)': cannot convert argument 2 from 'const char *' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(718): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(725): error C2664: 'BOOL GetTextExtentPoint32W(HDC,LPCWSTR,int,LPSIZE)': cannot convert argument 2 from 'const char *' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(725): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(1437): warning C4244: 'argument': conversion from 'TCHAR' to 'char', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(1626): error C2440: '=': cannot convert from 'const char [11]' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(1626): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(1700): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 2 from 'const char [11]' to 'LPCWSTR'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\winbgi.cpp(1700): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\227582\desktop\assignments\game project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(240): error C3861: '_kbhit': identifier not found
+c:\users\227582\desktop\assignments\game project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(324): error C3861: '_getch': identifier not found
